@@ -31,4 +31,5 @@ android {
     lintOptions {
         disable 'InvalidPackage'
     }
+    namespace "com.github.sathish76.flutter_dnd"
 }
